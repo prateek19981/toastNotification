@@ -1,0 +1,21 @@
+.btn
+{
+    padding: 5px 25px;
+    border-radius: 10px;
+    outline:none;
+    border: 1px solid lightgray;
+    margin: 10px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.btn:active
+{
+    transform: scale(0.97);
+}
+
+.btn:hover
+{
+    background-color: lightslategray;
+    color:white;
+}
